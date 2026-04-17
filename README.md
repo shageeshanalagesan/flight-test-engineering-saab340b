@@ -1,4 +1,4 @@
-# AERO317 – Flight Test & Model Validation
+# Flight Test Engineering
 
 **Saab 340B+ Flight Laboratory | University of Liverpool**
 
@@ -40,6 +40,7 @@ The objectives were to:
 
 
 <img width="400" alt="IMG_8736" src="https://github.com/user-attachments/assets/b99aec17-1ccc-4aeb-80e7-fc5a59cdd9f9" />  
+
 <img width="300" alt="IMG_8709" src="https://github.com/user-attachments/assets/fb4b1177-f479-4b26-9464-bece46b466d2" />
 
 ---
