@@ -1,3 +1,4 @@
+![Uploading IMG_8709.JPG…]()
 # AERO317 – Flight Test & Model Validation
 
 **Saab 340B+ Flight Laboratory | University of Liverpool**
@@ -37,6 +38,7 @@ The objectives were to:
 - Measure and validate aircraft aerodynamic and stability characteristics from real flight data
 - Build a theoretical lateral-directional state-space model and compare against flight test results
 - Understand how linear models deviate from real-world behaviour due to nonlinear effects, turbulence, and pilot inputs
+
 
 ---
 
