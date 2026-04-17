@@ -1,4 +1,3 @@
-![Uploading IMG_8709.JPG…]()
 # AERO317 – Flight Test & Model Validation
 
 **Saab 340B+ Flight Laboratory | University of Liverpool**
