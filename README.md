@@ -39,6 +39,8 @@ The objectives were to:
 - Build a theoretical lateral-directional state-space model and compare against flight test results
 - Understand how linear models deviate from real-world behaviour due to nonlinear effects, turbulence, and pilot inputs
 
+![Uploading IMG_8709.JPG…]() ![Uploading IMG_8737.JPG…]()
+
 
 ---
 
